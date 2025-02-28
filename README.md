@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Mustafa Mohamed
+<h1 align="center">Hi there, I'm Mustafa Mohamed 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Flutter+Developer+%7C+Mobile+App+Enthusiast;Passionate+about+Cross-Platform+Development;Learning+Backend+%7C+PHP+%7C+Node.js;Always+Exploring+New+Tech!🚀" alt="Typing SVG">
