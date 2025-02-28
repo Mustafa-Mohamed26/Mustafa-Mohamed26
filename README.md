@@ -37,7 +37,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mustafa-Mohamed26&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mustafa-Mohamed26&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px">
 </p>
 
 ---
@@ -48,6 +48,7 @@
 </p>
 
 ---
+
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-mohamed-095301318/)
