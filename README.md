@@ -1,90 +1,107 @@
-<h1 align="center">Hi there, I'm Mustafa Mohamed 👋</h1>
+<!-- 💙 Flutter Developer GitHub Profile - Mustafa Mohamed -->
+<h1 align="center">👋 Hi, I'm Mustafa Mohamed</h1>
+
+<!-- 🔹 Typing Effect -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1800&color=00BFFF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Cross-Platform+Mobile+Engineer;Clean+Architecture+Advocate;Open+Source+Contributor;Freelancer+%26+Collaborator" 
+      alt="Typing SVG" 
+    />
+  </a>
+</p>
+
+---
+
+### 🧠 About Me
+I’m a passionate **Flutter Developer** specializing in building **modern, scalable, and user-friendly** mobile applications for both **Android** and **iOS** platforms.  
+My focus is on writing **clean, maintainable code**, using solid architectural patterns, and creating apps that blend functionality with great design.  
+
+💡 **Core strengths:** Flutter, Dart, Firebase, REST APIs, and Clean Architecture.  
+🤝 I enjoy teamwork, collaboration, and sharing knowledge with the community.  
+
+---
+
+### 🧩 Core Competencies
+- Flutter & Dart (Cross-Platform Development)  
+- BLoC, Provider, Riverpod (State Management)  
+- Clean Architecture & Repository Pattern  
+- Firebase (Auth, Firestore, Messaging, Storage)  
+- REST APIs, JSON, Dio, Retrofit  
+- SQLite, Hive, Shared Preferences  
+- Git & GitHub Collaboration  
+
+---
+
+### 🌍 Language Proficiency
+| Language | Level |
+|-----------|--------|
+| **Arabic** | Native |
+| **English** | Upper Intermediate (B2) |
+
+---
+
+### 🤝 Let’s Connect & Collaborate
+
+| Platform | Link | Type |
+|-----------|------|------|
+| 💻 **GitHub** | [Mustafa-Mohamed26](https://github.com/Mustafa-Mohamed26) | Code & Projects |
+| 💼 **LinkedIn** | [mustafa-mohamed-095301318](https://www.linkedin.com/in/mustafa-mohamed-095301318/) | Professional |
+| 💡 **LeetCode** | [zxqCDcmPKP](https://leetcode.com/u/zxqCDcmPKP/) | Problem Solving |
+| ⚙️ **Codeforces** | [MustafaMohamed26](https://codeforces.com/profile/MustafaMohamed26) | Competitive Programming |
+| 📧 **Email** | [mustafamohameda447@gmail.com](mailto:mustafamohameda447@gmail.com) | Quick Response |
+
+---
+
+### 💼 What I Offer
+| Category | Description |
+|-----------|--------------|
+| 📱 **App Development** | Flutter apps for Android & iOS |
+| 🎨 **UI/UX Implementation** | Modern responsive designs |
+| 🔌 **API Integration** | REST APIs, Firebase, Auth systems |
+| 🧩 **Architecture** | BLoC, Provider, MVVM, Clean Code |
+| 🤝 **Collaboration** | Team Projects, Freelance Work, Open Source |
+
+---
+
+### 🔭 Current Focus & Availability
+🚀 Actively working on innovative **Flutter projects**  
+💙 Open to **freelance**, **collaboration**, and **remote roles**  
+🌱 Exploring **React Native**, **Kotlin**, **Swift**, and **Backend (Node.js, PHP)**  
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Flutter+Developer+%7C+Cross-Platform+Mobile+Apps;HTTP+Dio+Retrofit+%7C+Provider+BLoC;MVVM+%7C+Clean+Architecture+%7C+Repository+Pattern;SQLite+%7C+Hive+%7C+Shared+Preferences;Always+Learning+New+Tech!🚀" alt="Typing SVG">
+
+<!-- 🔹 GitHub Stats -->
+<a href="https://github.com/Mustafa-Mohamed26">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mustafa-Mohamed26&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Mohamed26&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=ffffff" />
+</a>
+
+<!-- 🔹 Streak Stats -->
+<a href="https://github.com/Mustafa-Mohamed26">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-Mohamed26&theme=radical&hide_border=true&background=0d1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" />
+</a>
+
+<!-- 🔹 Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mustafa-Mohamed26&bg_color=0d1117&color=00BFFF&line=00BFFF&point=00BFFF&area=true&hide_border=true" />
+
 </div>
 
 ---
 
-### 🚀 **About Me**
-- 🎯 **Flutter Developer** specializing in **Cross-Platform Mobile Apps**  
-- 💻 Experienced with **State Management**: `Provider`, `BLoC`  
-- 🛠️ **Architecture & Patterns**: `MVVM`, `Clean Architecture`, `Repository Pattern`, `Singleton Pattern`  
-- 🌐 **Networking & APIs**: `HTTP`, `Dio`, `Retrofit`  
-- 💾 **Databases & Storage**: `SQLite`, `Hive`, `Shared Preferences`, `Firebase`  
-- 🎓 Computer Science student at **Alexandria National University**  
-- 🌱 Exploring **React Native, Kotlin, Swift, and Backend Development** (PHP & Node.js)  
-- 🔥 Passionate about writing **clean, maintainable, scalable code**  
+### 🕒 Response Time & Collaboration
+📧 **Email Response:** within 24 hours  
+💬 **Project Discussions:** Open for new opportunities  
+🤝 **Collaborations:** Actively seeking creative Flutter projects  
+🌍 **Timezone:** EET (Egypt)  
+🧩 **Flexible for international clients**
 
 ---
 
-### 💎 **Highlights**
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-Expert-blue?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/State_Management-Provider%2FBLoC-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Architecture-MVVM%2FClean_Arch-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Networking-Dio%2FRetrofit-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database-SQLite%2FHive%2FFirebase-purple?style=for-the-badge" />
+  <b>💙 Let’s build the future of apps with Flutter together!</b>  
 </p>
-
----
-
-### 🔧 **Tech Stack**
-
-<p align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-
-<!-- Languages & Frameworks -->
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-<!-- State Management & Architecture -->
-![Provider](https://img.shields.io/badge/Provider-FF4081?style=for-the-badge)
-![BLoC](https://img.shields.io/badge/BLoC-673AB7?style=for-the-badge)
-![MVVM](https://img.shields.io/badge/MVVM-009688?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-607D8B?style=for-the-badge)
-
-<!-- Networking & APIs -->
-![HTTP](https://img.shields.io/badge/HTTP-29B6F6?style=for-the-badge)
-![Dio](https://img.shields.io/badge/Dio-1976D2?style=for-the-badge)
-![Retrofit](https://img.shields.io/badge/Retrofit-FF5722?style=for-the-badge)
-
-<!-- Databases & Storage -->
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-673AB7?style=for-the-badge)
-![Shared Preferences](https://img.shields.io/badge/Shared_Preferences-FFC107?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-<!-- Backend & Tools -->
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</p>
-
----
-
-### 📊 **GitHub Stats & Languages**
-<p align="center" style="display: flex; gap: 30px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mustafa-Mohamed26&show_icons=true&theme=tokyonight&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Mohamed26&layout=compact&langs_count=8&theme=tokyonight" width="400" />
-</p>
-
----
-
-### 💻 Competitive Programming
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/MustafaMohamed26)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/zxqCDcmPKP/)
-
----
-
-### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-mohamed-095301318/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mustafa-Mohamed26)
-
----
-
-🔥 *Let's build amazing Flutter apps together!* 🚀
