@@ -1,73 +1,62 @@
-<!-- 💙 Flutter Developer GitHub Profile - Mustafa Mohamed -->
-<h1 align="center">👋 Hi, I'm Mustafa Mohamed</h1>
+<h1 align="center">Hi there, I'm Mustafa Mohamed 👋</h1>
 
-<!-- 🔹 Typing Effect -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1800&color=00BFFF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Cross-Platform+Mobile+Engineer;Clean+Architecture+Advocate;Open+Source+Contributor;Freelancer+%26+Collaborator" 
-      alt="Typing SVG" 
-    />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Cross-Platform+Mobile+Engineer;Clean+Architecture+Advocate;AR+Integration+Enthusiast" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mustafa-mohamed-095301318/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mustafamohameda447@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://leetcode.com/u/zxqCDcmPKP/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://codeforces.com/profile/MustafaMohamed26"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
 </p>
 
 ---
 
-### 🧠 About Me
-I’m a passionate **Flutter Developer** specializing in building **modern, scalable, and user-friendly** mobile applications for both **Android** and **iOS** platforms.  
-My focus is on writing **clean, maintainable code**, using solid architectural patterns, and creating apps that blend functionality with great design.  
+### 👨‍💻 About Me
 
-💡 **Core strengths:** Flutter, Dart, Firebase, REST APIs, and Clean Architecture.  
-🤝 I enjoy teamwork, collaboration, and sharing knowledge with the community.  
+I am a passionate **Flutter Developer** and **Cross-Platform Mobile Engineer** based in Alexandria, Egypt. I specialize in building highly scalable, maintainable, and visually appealing mobile applications. 
 
----
+My core development philosophy revolves around **Clean Architecture** and writing robust, decoupled code. I am highly proficient in applying industry-standard **Design Patterns** to ensure software quality, including:
+* 🧩 **Repository Pattern** for data abstraction and separating domain logic.
+* 💉 **Dependency Injection** (using `get_it` and `injectable`) for scalable service management.
+* 👁️ **Observer Pattern** (via **BLoC/Cubit**) for predictable, reactive state management.
+* 🏭 **Factory & Singleton Patterns** for efficient object creation and memory allocation.
+* 🏗️ **Layered & Feature-First Design** to ensure strict separation of concerns.
 
-### 🧩 Core Competencies
-- Flutter & Dart (Cross-Platform Development)  
-- BLoC, Provider, Riverpod (State Management)  
-- Clean Architecture & Repository Pattern  
-- Firebase (Auth, Firestore, Messaging, Storage)  
-- REST APIs, JSON, Dio, Retrofit  
-- SQLite, Hive, Shared Preferences  
-- Git & GitHub Collaboration  
+Beyond standard mobile development, I am deeply interested in integrating **Augmented Reality (Unity)** into Flutter apps, and I continuously optimize my workflow using terminal-based tools like Linux, tmux, and Neovim.
+
+* 🔭 **Currently working on:** An immersive **AR Chemistry Laboratory** (Flutter + Unity) and a scalable student productivity application.
+* 🌱 **Currently learning:** Advanced backend integrations (FastAPI, Node.js) and DevOps practices.
 
 ---
 
-### 🌍 Language Proficiency
-| Language | Level |
-|-----------|--------|
-| **Arabic** | Native |
-| **English** | Upper Intermediate (B2) |
+### 🛠️ Tech Stack & Tools
 
----
+**Mobile Development & Architecture**
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
 
-### 🤝 Let’s Connect & Collaborate
+**Backend & Cloud**
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
-| Platform | Link | Type |
-|-----------|------|------|
-| 💻 **GitHub** | [Mustafa-Mohamed26](https://github.com/Mustafa-Mohamed26) | Code & Projects |
-| 💼 **LinkedIn** | [mustafa-mohamed-095301318](https://www.linkedin.com/in/mustafa-mohamed-095301318/) | Professional |
-| 💡 **LeetCode** | [zxqCDcmPKP](https://leetcode.com/u/zxqCDcmPKP/) | Problem Solving |
-| ⚙️ **Codeforces** | [MustafaMohamed26](https://codeforces.com/profile/MustafaMohamed26) | Competitive Programming |
-| 📧 **Email** | [mustafamohameda447@gmail.com](mailto:mustafamohameda447@gmail.com) | Quick Response |
-
----
-
-### 💼 What I Offer
-| Category | Description |
-|-----------|--------------|
-| 📱 **App Development** | Flutter apps for Android & iOS |
-| 🎨 **UI/UX Implementation** | Modern responsive designs |
-| 🔌 **API Integration** | REST APIs, Firebase, Auth systems |
-| 🧩 **Architecture** | BLoC, Provider, MVVM, Clean Code |
-| 🤝 **Collaboration** | Team Projects, Freelance Work, Open Source |
-
----
-
-### 🔭 Current Focus & Availability
-🚀 Actively working on innovative **Flutter projects**  
-💙 Open to **freelance**, **collaboration**, and **remote roles**  
-🌱 Exploring **React Native**, **Kotlin**, **Swift**, and **Backend (Node.js, PHP)**  
+**Workflow & Environment**
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
@@ -75,33 +64,22 @@ My focus is on writing **clean, maintainable code**, using solid architectural p
 
 <div align="center">
 
-<!-- 🔹 GitHub Stats -->
 <a href="https://github.com/Mustafa-Mohamed26">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mustafa-Mohamed26&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Mohamed26&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00BFFF&text_color=ffffff" />
 </a>
 
-<!-- 🔹 Streak Stats -->
 <a href="https://github.com/Mustafa-Mohamed26">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-Mohamed26&theme=radical&hide_border=true&background=0d1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" />
 </a>
 
-<!-- 🔹 Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mustafa-Mohamed26&bg_color=0d1117&color=00BFFF&line=00BFFF&point=00BFFF&area=true&hide_border=true" />
 
 </div>
 
 ---
 
-### 🕒 Response Time & Collaboration
-📧 **Email Response:** within 24 hours  
-💬 **Project Discussions:** Open for new opportunities  
-🤝 **Collaborations:** Actively seeking creative Flutter projects  
-🌍 **Timezone:** EET (Egypt)  
-🧩 **Flexible for international clients**
-
----
-
 <p align="center">
-  <b>💙 Let’s build the future of apps with Flutter together!</b>  
+  <i>Let's connect and build something amazing together! Open for freelance and collaborations.</i><br>
+  <b>Timezone: EET (Alexandria, Egypt)</b>
 </p>
